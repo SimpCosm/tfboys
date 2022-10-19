@@ -102,3 +102,5 @@ You can see on you console from cloud provider that a new VM has been created.
 
 # Reference
 - https://registry.terraform.io/providers/tencentcloudstack/tencentcloud/latest/docs
+- [Terraform 中文教程](https://lonegunmanb.github.io/introduction-terraform/)
+- [Terraform Docs](https://www.terraform.io/docs)
